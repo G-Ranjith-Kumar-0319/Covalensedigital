@@ -1,0 +1,21 @@
+body{
+    background: #121417;
+}
+
+h1{
+    color: white;
+    margin: 0;
+}
+
+p{
+    color: #7c8798;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
